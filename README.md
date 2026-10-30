@@ -186,10 +186,10 @@ sudo nmcli connection up "Wired connection 1"
 
 ## 9. Author
 
-**Author:** Faiza Khalid
-Cybersecurity Trainee — Networkwalks (Batch B083D)
+**Author:** Muhammad Ali
+Cybersecurity Trainee — Networkwalks (Batch B084B)
 
-GitHub: https://github.com/Faiza-Khalid ·
-LinkedIn: www.linkedin.com/in/faiza-k-11a626343
+GitHub: 
+LinkedIn: https://www.linkedin.com/in/muhammad-ali-a8845535b/
 
 **Credits:** Program guidance — Sir Waqas Karim (CCIE) & the Networkwalks team.
